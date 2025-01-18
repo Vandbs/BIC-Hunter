@@ -30,9 +30,7 @@ For running the ablation study, enter the key_design directory and run `without_
 
 ## Data
 
-data from :
-
-[Tang et al]:https://ieeexplore.ieee.org/document/10298347
+data from : Tang et al https://ieeexplore.ieee.org/document/10298347 
 
 ### graph data
 
