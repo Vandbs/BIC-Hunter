@@ -24,6 +24,10 @@ In order to achieve the verification of model performance by BIC-Hunte, run `tra
 
 In order to achieve the performance test of a single component, revise `confident_learning.py` and `model.py` and modify the interface.
 
+Folder Confidence_choise stores the tools for different confidence level calculation methods.
+
+Folder Network_choise stores different graph neural networks.
+
 ## Data
 
 data from : Tang et al https://ieeexplore.ieee.org/document/10298347 
