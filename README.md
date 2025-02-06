@@ -17,7 +17,7 @@ In this work, we introduce **BIC-Hunter**, a deep learning model designed to det
 
 4. Torch: 2.2.2
    
-5. other packages please refer to requirements.txt
+5. other packages please refer to 'requirements.txt'
 
 ## Train & Test
 For running the cross fold validation and cross project prediction, run `train.py`.
