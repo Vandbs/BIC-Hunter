@@ -20,13 +20,9 @@ In this work, we introduce **BIC-Hunter**, a deep learning model designed to det
 5. other packages please refer to `requirements.txt`
 
 ## Train & Test
-For running the cross fold validation and cross project prediction, run `train.py`.
+In order to achieve the verification of model performance by BIC-Hunte, run `train.py`.
 
-For running the denoise method baselines, enter the ml_baseline directory and run `train_noisebaseline.py`.
-
-For running the deep learning baselines, enter the dl_baseline directory and run `dl_baselines.py`.
-
-For running the ablation study, enter the key_design directory and run `without_CL.py` and `without_GCN.py`. 
+In order to achieve the performance test of a single component, revise `cofident.py` and `model.py` and modify the interface.
 
 ## Data
 
