@@ -22,7 +22,7 @@ In this work, we introduce **BIC-Hunter**, a deep learning model designed to det
 ## Train & Test
 In order to achieve the verification of model performance by BIC-Hunte, run `train.py`.
 
-In order to achieve the performance test of a single component, revise `cofident.py` and `model.py` and modify the interface.
+In order to achieve the performance test of a single component, revise `confident_learning.py` and `model.py` and modify the interface.
 
 ## Data
 
